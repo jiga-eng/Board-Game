@@ -7,7 +7,7 @@ Step 2: Next, to initialize your app, enter the command “react-native init Boa
 
 Step 3: Navigate to your directory location “Boardgame” i.e "cd BoardGame" and enter the command “npx react-native run-android” and hit enter. It will start the Node server and launch the application in AVD (Android Virtual Device) emulator.
 
-Directory Structure: Images/Directory Structure.png
+Directory Structure: https://github.com/jiga-eng/Board-Game/blob/main/Images/Directory%20Structure.png
 
 Create folders as shown and copy paste the code into respective files.
 
