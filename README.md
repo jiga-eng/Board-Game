@@ -6,7 +6,7 @@ Step 1: Open Android Studio and start your Android Emulator and make it live.
 
 Step 2: Next, to initialize your app, enter the command “react-native init BoardGame” in the command prompt and hit enter.
 
-Step 3: Navigate to your directory location “Boardgame” i.e "cd BoardGame" and enter the command “npx react-native run-android” and hit enter. It will start the Node server and launch the application in AVD (Android Virtual Device) emulator.
+Step 3: Navigate to your directory location “Boardgame” i.e "cd BoardGame" and enter the command “npx react-native run-android” OR "react-native run-android" and hit enter. It will start the Node server and launch the application in AVD (Android Virtual Device) emulator.
 
 Directory Structure: https://github.com/jiga-eng/Board-Game/blob/main/Images/Directory%20Structure.png
 
